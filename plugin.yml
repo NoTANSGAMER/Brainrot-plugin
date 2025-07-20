@@ -1,0 +1,8 @@
+name: BrainrotPlugin
+version: 1.0
+main: me.example.brainrot.BrainrotPlugin
+api-version: 1.21
+commands:
+  brainrot:
+    description: Manage Brainrot tokens
+    usage: /<command> <give|merge> [player] [token]
